@@ -1,6 +1,6 @@
 selfbot:
   accounts:
-    - token: 'ADD_YOUR_1ST_TOKEN_HERE'
+    - token: 'MTUxOTc0MDYxNDc2MDA3MTI3MA.GosuMK.GDAHrWKRK4eA2bro2odLY6ehyTRpsGraGNBEM0'
       prefix: ',' 
     - token: 'ADD_YOUR_2ND_TOKEN_HERE'
       prefix: '-'
